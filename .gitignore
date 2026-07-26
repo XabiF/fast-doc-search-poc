@@ -1,0 +1,8 @@
+.clangd
+Biblioteca/
+dev/
+*.txt
+*.wtb
+*.dtb
+*.ipynb
+docsearch
